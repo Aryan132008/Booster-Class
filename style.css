@@ -1,0 +1,28 @@
+.menu{
+  display:flex;
+  justify-content: space-between;
+  background-color: black;
+  font-size: large;
+  font-family: 'Gill Sans';
+  font-weight: 700;
+  color:white;
+}
+body{
+  background-color: white;
+}
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Gill Sans';
+}
+.grid img{
+  border:7 px solid black;
+  border-radius: 70 px;
+}
+
+.origami {
+  border-radius: 70 px;
+  background-color: wheat;
+  width: 300 px;
+  font-family: 'Gill Sans';
+}
